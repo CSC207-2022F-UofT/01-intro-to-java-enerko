@@ -63,7 +63,6 @@ public class Basics {
          */
         int my_variable = 100;
 
-
         /* Do not remove the line below: if you did task 2 correctly, then
          * you should see the message "my_variable's value is 100" if you run
          * this file!
