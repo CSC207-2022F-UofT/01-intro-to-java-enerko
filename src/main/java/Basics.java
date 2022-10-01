@@ -173,14 +173,11 @@ public class Basics {
          *                You can index into arrays as we do in Python
          *                (e.g. arr[i] gives you the item at index i).
          */
-
         for (int i = 0; i < (arr.length)/2; i++){
             current_sum += arr[2*i+1];
         }
         return current_sum;
     }
-
-
     /*
      * TODO (Task 6): Submit the changes you made on GitHub!
      *                When you submit it, go to the 'Actions' tab. You should
